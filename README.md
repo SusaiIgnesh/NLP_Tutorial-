@@ -19,7 +19,7 @@
 
 > Core NLP
 
-> Gensim
+> Gensim (mainly for topic modeling)
 
 > PyNLPI,etc.
 
@@ -71,7 +71,8 @@
 > Knowledge Graphs
 
 # **Word Embeddings**
-1. Frequency-based Word Embedding.
+
+**1. Frequency-based Word Embedding.**
 
 > One Hot Encoding
 
@@ -82,3 +83,76 @@
 > Co-occurrence Matrix, Co-occurrence Vector
 
 > HashingVectorizer
+
+**2. Pretrained Word Embedding**
+
+> Word2Vec (by Google) : (2 types) CBOW, Skip-Gram
+
+> GloVe (by Stanford)
+
+> fastText (by Facebook)
+
+# **Topic Modeling**
+
+> Latent Semantic Analysis (LSA)
+
+> Probabilistic Latent Semantic Analysis (pLSA)
+
+> Latent Dirichlet Allocation (LDA)
+
+> lda2Vec
+
+> Non-Negative Matrix Factorization (NMF)
+
+# **NLP with Deep Learning**
+
+> Machine Learning (Logistic Regression, SVM, Naïve Bayes)
+
+> Artificial Neural Network
+
+> Deep Neural Network
+
+> Embedding Layer
+
+> RNN/LSTM/GRU
+
+> Bi-RNN/Bi-LSTM/Bi-GRU
+
+> Pretrained Language Models: ELMo, ULMFiT
+
+> Sequence-to-Sequence/Encoder-Decoder
+
+> Transformers (attention mechanism)
+
+> Encoder-only Transformers: BERT
+
+> Decoder-only Transformers: GPT 
+
+> Transfer Learning
+
+# **Example Use cases**
+
+> Sentiment Analysis
+
+> Question Answering
+
+> Language Translation
+
+> Text/Intent Classification
+
+> Text Summarization
+
+> Text Similarity
+
+> Text Clustering
+
+> Text Generation
+
+> Chatbots (DialogFlow, RASA, Self-made Bots)
+
+** Refernce link:**
+
+https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/
+
+https://www.kaggle.com/code/kmldas/free-nlp-resources-courses/notebook
+
