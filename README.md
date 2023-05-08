@@ -1,2 +1,3 @@
-# NLP_Tutorial-This repo contain the Nlp tutorial
-tur
+# NLP_Tutorial-This repository has a tutorial and Roadmap the NLP.
+> Table content:
+
