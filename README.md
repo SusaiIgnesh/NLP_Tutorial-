@@ -87,7 +87,7 @@
 
 > HashingVectorizer
 
-**2. Pretrained Word Embedding**
+**2. Pretrained Word Embedding**(Prediction based Word Embedding
 
 > Word2Vec (by Google) : (2 types) CBOW, Skip-Gram
 
