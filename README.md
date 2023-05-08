@@ -26,3 +26,23 @@
 
 # **Table content**
 
+# **Pre-processing**
+
+> Sentence cleaning
+
+> Stop Words
+
+> Regular Expression
+
+> Tokenization
+
+> N-grams (Unigram, Bigram, Trigram)
+
+> Text Normalization
+
+> Stemming
+
+> Lemmatization
+
+> Correction of Typos, etc.
+
