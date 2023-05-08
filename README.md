@@ -6,7 +6,7 @@
 
 **The path below is what I followed during my CTS training(AI-ML), and it helped me tremendously in preparing for the ML interviews. It's also assisting me at work, where I work mostly on NLP and Deep Learning.**
 
-![image](https://user-images.githubusercontent.com/110814873/236748905-861664f0-8bea-4fc7-98c0-6ae3ea07d40f.png)
+![image](https://user-images.githubusercontent.com/110814873/236749096-7a6c39cc-7e3c-431c-b4e0-f8050b3de40c.png)
 
 
 # **Prerequisites to follow the Roadmap effectively**
