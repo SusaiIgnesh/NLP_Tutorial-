@@ -46,7 +46,7 @@
 
 > Correction of Typos, etc.
 
-#**Linguistics**
+# **Linguistics**
 
 > Part-of-Speech Tags
 
@@ -150,7 +150,7 @@
 
 > Chatbots (DialogFlow, RASA, Self-made Bots)
 
-** Refernce link:**
+**Refernce link:**
 
 https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/
 
