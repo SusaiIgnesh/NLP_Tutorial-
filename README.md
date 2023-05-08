@@ -26,7 +26,7 @@
 
 # **Table content**
 
-# **Pre-processing**
+# **Pre-processing**(It includes levels 1 and 2 Pre-processing)
 
 > Sentence cleaning
 
@@ -45,4 +45,28 @@
 > Lemmatization
 
 > Correction of Typos, etc.
+
+#**Linguistics**
+
+> Part-of-Speech Tags
+
+> Constituency Parsing
+
+> Dependency Parsing
+
+> Syntactic Parsing
+
+> Semantic Analysis
+
+> Lexical Semantics
+
+> Coreference Resolution
+
+> Chunking
+
+> Entity Extraction / Named Entity Recognition (NER)
+
+> Named Entity Disambiguation / Entity Linking
+
+> Knowledge Graphs
 
